@@ -1,4 +1,4 @@
-# Benchmarks results
+# Benchmark results
 
 <img src="logrus.png" alt="Logrus benchmark results" />
 
